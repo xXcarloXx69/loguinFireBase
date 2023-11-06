@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780061009400",
+    "project_id": "loguinfirebase-e51ed",
+    "storage_bucket": "loguinfirebase-e51ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780061009400:android:1ce868c45304b07448e20d",
+        "android_client_info": {
+          "package_name": "com.example.loguinfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ2sIll0p7PKRABx0C9FbGzd_9BDSzKW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
